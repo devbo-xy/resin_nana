@@ -26,7 +26,7 @@
   <link href="<?php echo base_url('/asset/Yummy/');?>assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
 
   <!-- Template Main CSS File -->
-  <link href="<?php echo base_url('/asset/Yummy/');?>assets/css/main1.css" rel="stylesheet">
+  <link href="<?php echo base_url('/asset/Yummy/');?>assets/css/main.css" rel="stylesheet">
 
   <!-- =======================================================
   * Template Name: Yummy - v1.3.0

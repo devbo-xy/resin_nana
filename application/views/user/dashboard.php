@@ -146,8 +146,8 @@
           <div class="tab-pane fade active show" id="menu-populer">
             <!-- TERLARIS -->
             <div class="tab-header text-center">
-              <p>Product</p>
-              <h3>Terlaris</h3>
+              <p></p>
+
             </div>
 
             <div class="row gy-5">
@@ -224,8 +224,7 @@
           <div class="tab-pane fade" id="menu-custom">
             <!-- TERBARU -->
             <div class="tab-header text-center">
-              <p>Menu</p>
-              <h3>Terbaru</h3>
+              <p></p>
             </div>
 
             <div class="row gy-5">
@@ -290,8 +289,7 @@
           <div class="tab-pane fade" id="menu-keychain">
 <!-- SEMUA PRODUK -->
             <div class="tab-header text-center">
-              <p>Menu</p>
-              <h3>Semua Produk</h3>
+              <p></p>
             </div>
 
                         <div class="row gy-5">
