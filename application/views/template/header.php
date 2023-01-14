@@ -76,7 +76,7 @@
         </ul>
       </nav><!-- .navbar -->
 
-      <a class="btn-book-a-table" href="https://linktr.ee/resinbynana">Pesan Sekarang</a>
+      <a class="btn-book-a-table" href="https://linktr.ee/resinbynana" target="_blank" rel="noopener noreferrer">Order Now</a>
       <i class="mobile-nav-toggle mobile-nav-show bi bi-list"></i>
       <i class="mobile-nav-toggle mobile-nav-hide d-none bi bi-x"></i>
 
