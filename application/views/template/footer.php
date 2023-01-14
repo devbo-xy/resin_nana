@@ -111,10 +111,10 @@
             <a href="#FAQ'S" class="text-reset">FAQ'S</a>
           </p>
           <p>
-            <a href="#CONTACT US" class="text-reset">Contact Us</a>
+          <a href="https://wa.me/+6281316422975?text=Halo,%20kak%20saya%20mau%20bertanya%20mengenai%20..." target="_blank" rel="noopener noreferrer" class="text-reset">Contact Us</a>
           </p>
           <p>
-            <a href="#HELPCENTER" class="text-reset">Help Center</a>
+          <a href="https://wa.me/+6281316422975?text=Halo,%20kak%20saya%20mengalami%20kendala%20pada%20..." target="_blank" rel="noopener noreferrer" class="text-reset">Help Center</a>
           </p>
         </div>
         <!-- Grid column -->

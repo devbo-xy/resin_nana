@@ -6,7 +6,7 @@
           <h2 data-aos="fade-up">Make Your Life More Colorful<br>Being Creative Means Loving Life</h2>
           <p data-aos="fade-up" data-aos-delay="100">Anda sudah bosan dengan Casing hape yang gitu - gitu aja, banyak yg kembaran dan pasaran. Resin Nana hadir untuk mengatasi ke galauan kamu , yuk buat casing mu menjadi beda dengan custom di Resin Nana</p>
           <div class="d-flex" data-aos="fade-up" data-aos-delay="200">
-            <a href="https://wa.me/+6281316422975" class="btn-book-a-table">Costum Sekarang</a>
+            <a href="https://wa.me/+6281316422975?text=Halo,%20kak%20saya%20mau%20custom%20product%20..." target="_blank" rel="noopener noreferrer" class="btn-book-a-table">Costum Sekarang</a>
           </div>
         </div>
         <div class="col-lg-5 order-1 order-lg-2 text-center text-lg-start">
@@ -80,28 +80,28 @@
 
           <div class="col-lg-3 col-md-6">
             <div class="stats-item text-center w-100 h-100">
-              <span data-purecounter-start="0" data-purecounter-end="13" data-purecounter-duration="1" class="purecounter"></span>
+              <span data-purecounter-start="0" data-purecounter-end="13" data-purecounter-duration="3" class="purecounter"></span>
               <p>Products</p>
             </div>
           </div><!-- End Stats Item -->
 
           <div class="col-lg-3 col-md-6">
             <div class="stats-item text-center w-100 h-100">
-              <span data-purecounter-start="0" data-purecounter-end="676" data-purecounter-duration="1" class="purecounter"></span>
+              <span data-purecounter-start="0" data-purecounter-end="676" data-purecounter-duration="3" class="purecounter"></span>
               <p>Terjual</p>
             </div>
           </div><!-- End Stats Item -->
 
           <div class="col-lg-3 col-md-6">
             <div class="stats-item text-center w-100 h-100">
-              <span data-purecounter-start="0" data-purecounter-end="1273" data-purecounter-duration="1" class="purecounter"></span>
+              <span data-purecounter-start="0" data-purecounter-end="1273" data-purecounter-duration="3" class="purecounter"></span>
               <p>Customer</p>
             </div>
           </div><!-- End Stats Item -->
 
           <div class="col-lg-3 col-md-6">
             <div class="stats-item text-center w-100 h-100">
-              <span data-purecounter-start="0" data-purecounter-end="221" data-purecounter-duration="1" class="purecounter"></span>
+              <span data-purecounter-start="0" data-purecounter-end="221" data-purecounter-duration="3" class="purecounter"></span>
               <p>Review</p>
             </div>
           </div><!-- End Stats Item -->
@@ -153,9 +153,9 @@
 
             <div class="row gy-5">
 
-              <div class="col-lg-4 menu-item">
+              <div class="col-lg-4 menu-item" style="border-radius:16px; box-shadow: 1px 1px 40px 2px rgba(0, 0, 0, 0.08);">
                 <a href="<?php echo base_url('/asset/img/case_pink1.png');?>" class="glightbox"><img src="<?php echo base_url('/asset/img/case_hp.png');?>" class="menu-img img-fluid" alt=""></a>
-                <h4> <a href="https://shopee.co.id/Custom-Resin-Phone-Case-Casing-HP-Custom-Motif-Marble-Beach-i.287569765.6672931291?sp_atk=ec80e3ee-3926-48af-bf67-ddc39c55c965&xptdk=ec80e3ee-3926-48af-bf67-ddc39c55c965" target="_blank" rel="noopener noreferrer" style="color: black ; align-content: flex-start;">Case All Type Handphone </a></h4>
+                <h4> <a href="https://shopee.co.id/Custom-Resin-Phone-Case-Casing-HP-Custom-Motif-Marble-Beach-i.287569765.6672931291?sp_atk=ec80e3ee-3926-48af-bf67-ddc39c55c965&xptdk=ec80e3ee-3926-48af-bf67-ddc39c55c965" target="_blank" rel="noopener noreferrer">Case All Type Handphone </a></h4>
                 <p class="ingredients">
                  Custom Resin Phone Case
                 </p>
@@ -568,7 +568,7 @@
         <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
                 <div class="carousel-inner">
                   <div class="carousel-item active">
-                    <img src="<?php echo base_url('/asset/img/event1.png');?>" class="d-block w-100" alt="...">
+                    <img src="<?php echo base_url('/asset/img/event1.png');?>"  class="d-block w-100" alt="...">
                   </div>
                   <div class="carousel-item">
                     <img src="<?php echo base_url('/asset/img/event1.jpg');?> " class="d-block w-100" alt="...">
@@ -606,7 +606,7 @@
             <div class="swiper-slide"><a class="glightbox" data-gallery="images-gallery" href="<?php echo base_url('/asset/img/case_ungu.jpg');?>"><img src="<?php echo base_url('/asset/img/case_ungu.jpg');?>" class="img-fluid" alt=""></a></div>
             <div class="swiper-slide"><a class="glightbox" data-gallery="images-gallery" href="<?php echo base_url('/asset/img/g_huruf2.jpg');?>"><img src="<?php echo base_url('/asset/img/g_huruf2.jpg');?>" class="img-fluid" alt=""></a></div>
             <div class="swiper-slide"><a class="glightbox" data-gallery="images-gallery" href="<?php echo base_url('/asset/img/phonto(9).png');?>"><img src="<?php echo base_url('/asset/img/phonto(9).png');?>" class="img-fluid" alt=""></a></div>
-            <div class="swiper-slide"><a class="glightbox" data-gallery="images-gallery" href="<?php echo base_url('/asset/img/nana-1479.jpg');?>"><img src="<?php echo base_url('/asset/img/nana-1479.jpg');?>" class="img-fluid" alt=""></a></div>
+            <div class="swiper-slide"><a class="glightbox" data-gallery="images-gallery" href="<?php echo base_url('/asset/img/sisir1.png');?>"><img src="<?php echo base_url('/asset/img/sisir1.png');?>" class="img-fluid" alt=""></a></div>
           </div>
           <div class="swiper-pagination"></div>
         </div>
