@@ -23,7 +23,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'https://localhost:8080/resin_nana';
+$config['base_url'] = 'https://yummy007.netlify.app/';
 
 /*
 |--------------------------------------------------------------------------
