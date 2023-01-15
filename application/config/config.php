@@ -23,7 +23,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'https://silly-semifreddo-cc23e0.netlify.app/';
+$config['base_url'] = 'http://localhost/resin_nana';
 
 /*
 |--------------------------------------------------------------------------
